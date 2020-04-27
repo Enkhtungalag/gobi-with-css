@@ -523,7 +523,7 @@
     }
 
     .details-footer {
-        display: block;
+        display: inline-flex;
         margin-top: 20px;
         padding: 20px;
         width: 96% !important;
@@ -1304,7 +1304,6 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 @media only screen and (min-device-width: 1000px) {
 
     body {
-        background-color: black;
         margin: 0;
         margin-top: 10px !important;
         font-family: 'Raleway', sans-serif !important;
@@ -1418,7 +1417,7 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
     .video span {
         font-size: 55px;
         position: absolute;
-        top: 78%;
+        top: 70%;
         left: 34%;
         z-index: 1;
         color: white;
@@ -1430,7 +1429,7 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         background-color: white;
         color: black;
         position: absolute;
-        top: 40%;
+        top: 85%;
         left: 43%;
         z-index: 1;
         height: 8%;
