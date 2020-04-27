@@ -302,7 +302,7 @@
         color: gray;
         line-height: 2;
         letter-spacing: 1px;
-       padding-left: 60px;
+        padding-left: 60px;
     }
 
     .footer ul li a:hover {
@@ -321,7 +321,7 @@
 
     .grid-container {
         display: grid;
-        grid-template-columns: auto auto ;
+        grid-template-columns: auto auto;
         margin-top: 20px;
     }
 
@@ -482,9 +482,11 @@
     .naadam:hover {
         opacity: 0.8;
     }
-.coat{
-    width: 80%;
-}
+
+    .coat {
+        width: 80%;
+    }
+
     .coat img {
         width: 100%;
     }
@@ -494,9 +496,11 @@
         border-bottom: 1px solid black;
         font-weight: 300;
     }
-.coat table{
-    margin-left: 150px;
-}
+
+    .coat table {
+        margin-left: 150px;
+    }
+
     .coat td {
         padding-left: 100px;
         border-bottom: 1px solid black;
@@ -509,7 +513,7 @@
 
     .grid-container-coat {
         display: grid;
-        grid-template-columns: auto ;
+        grid-template-columns: auto;
         margin-top: 120px;
         padding-left: 100px;
         padding-right: 100px;
@@ -567,6 +571,7 @@
         margin-top: 1%;
         width: 11%;
     }
+
     .gobi-menu {
         color: black;
         text-align: center;
@@ -586,7 +591,7 @@
 
     .grid-container-gobi {
         display: grid;
-        grid-template-columns: auto ;
+        grid-template-columns: auto;
         padding: 20px;
         width: 96%;
         text-align: center;
@@ -594,7 +599,7 @@
 
     .grid-container-gobi img {
         width: 95%;
-padding-bottom: 20px;
+        padding-bottom: 20px;
     }
 
     .grid-container-gobi div {
@@ -654,8 +659,8 @@ padding-bottom: 20px;
     .social-media {
         text-align: center;
     }
-    
-    
+
+
 }
 
 @media only screen and (min-device-width: 480px) and (max-device-width: 815px) and (orientation: landscape) {
@@ -695,7 +700,7 @@ padding-bottom: 20px;
         padding: 0;
         display: flex;
     }
-    
+
     .nav-menu ul li ul {
         margin-left: 0%;
         text-align: left !important;
@@ -975,7 +980,7 @@ padding-bottom: 20px;
 
     .grid-container {
         display: grid;
-        grid-template-columns: auto auto ;
+        grid-template-columns: auto auto;
         margin-top: 20px;
     }
 
@@ -1136,9 +1141,11 @@ padding-bottom: 20px;
     .naadam:hover {
         opacity: 0.8;
     }
-.coat{
-    width: 80%;
-}
+
+    .coat {
+        width: 80%;
+    }
+
     .coat img {
         width: 100%;
     }
@@ -1148,9 +1155,11 @@ padding-bottom: 20px;
         border-bottom: 1px solid black;
         font-weight: 300;
     }
-.coat table{
-    margin-left: 200px;
-}
+
+    .coat table {
+        margin-left: 200px;
+    }
+
     .coat td {
         padding-left: 100px;
         border-bottom: 1px solid black;
@@ -1163,7 +1172,7 @@ padding-bottom: 20px;
 
     .grid-container-coat {
         display: grid;
-        grid-template-columns: auto ;
+        grid-template-columns: auto;
         margin-top: 120px;
         padding-left: 100px;
         padding-right: 100px;
@@ -1221,6 +1230,7 @@ padding-bottom: 20px;
         margin-top: 1%;
         width: 11%;
     }
+
     .gobi-menu {
         color: black;
         text-align: center;
@@ -1240,7 +1250,7 @@ padding-bottom: 20px;
 
     .grid-container-gobi {
         display: grid;
-        grid-template-columns: auto ;
+        grid-template-columns: auto;
         padding: 20px;
         width: 96%;
         text-align: center;
@@ -1248,7 +1258,7 @@ padding-bottom: 20px;
 
     .grid-container-gobi img {
         width: 95%;
-padding-bottom: 10px;
+        padding-bottom: 10px;
     }
 
     .grid-container-gobi div {
@@ -1276,8 +1286,8 @@ padding-bottom: 10px;
 
     .slider img {
         width: 17%;
-margin-top: 180px;
-margin-bottom: 60px;
+        margin-top: 180px;
+        margin-bottom: 60px;
     }
 
     .grid-container-social {
@@ -1631,15 +1641,12 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         /* grid-gap: 50px; */
     }
 
-    /* .emegtei img {
-        width: 100%;
-    } */
-
     .grid-container {
         display: grid;
         grid-template-columns: auto auto auto auto;
         width: 100%;
     }
+
     .grid-container div {
         width: 100%;
     }
@@ -1665,7 +1672,8 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         padding: 0 !important;
         width: 90%
     }
-    .category{
+
+    .category {
         width: 98%;
     }
 
@@ -1846,7 +1854,7 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         padding: 20px;
         width: 97% !important;
         background: linear-gradient(white, #DEB887);
-        margin-top: 70px;
+        margin-top: 120px;
     }
 
     .details-footer ul {
@@ -1912,7 +1920,7 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         padding-bottom: 20px;
     }
 
-    .grid-container-gobi div{
+    .grid-container-gobi div {
         width: 90%;
         padding-left: 10%;
     }
@@ -1965,9 +1973,70 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         text-align: center;
     }
 
-    .social-media {
-        text-align: center;
+    .social-media ul {
+        display: flex;
+        position: absolute;
+        left: 36%;
+        transform: translate(-50% -50%);
     }
 
-    
+    .social-media ul li {
+        list-style: none;
+
+    }
+
+    .social-media ul li a {
+        width: 80px;
+        height: 80px;
+        background: #DEB887;
+        text-align: center;
+        line-height: 80px;
+        font-size: 35px;
+        margin: 0 10px;
+        display: block;
+        border-radius: 50%;
+        position: relative;
+        border: 3px solid rgb(248, 248, 242);
+        overflow: hidden;
+        z-index: 1;
+    }
+
+    .social-media ul li a .fa {
+        position: relative;
+        color: rgb(5, 5, 3);
+        transition: 1s;
+        z-index: 3;
+    }
+
+    .social-media ul li a:hover .fa {
+        color: white;
+        transform: rotateY(360deg);
+    }
+
+    .social-media ul li a:before {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        transition: .5s;
+        z-index: 2;
+    }
+
+    .social-media ul li a:hover:before {
+        top: 0;
+    }
+
+    .social-media ul li:nth-child(1) a:before {
+        background: #4267B2;
+    }
+
+    .social-media ul li:nth-child(2) a:before {
+        background: linear-gradient(#405DE6,#E1306C,#FCAF45);
+    }
+
+    .social-media ul li:nth-child(3) a:before {
+        background: #FF0000;
+    }
 }
