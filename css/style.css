@@ -36,7 +36,7 @@
 
     .nav-menu ul {
         list-style-type: none;
-        margin-left: 18%;
+        margin-left: 15%;
         padding: 0;
         display: flex;
     }
@@ -51,7 +51,7 @@
     .nav-menu li a {
         display: block;
         min-width: 100px;
-        height: 35px;
+        height: 50px;
         text-align: center;
         line-height: 50px;
         font-family: 'Manrope', sans-serif;
@@ -67,7 +67,6 @@
 
 
     .nav-menu li:hover ul a {
-        text-align: center;
         height: 40px;
         font-size: 13px;
         min-width: 120px;
@@ -391,13 +390,13 @@
     .namar-owol {
         font-size: 12px;
         background-color: white;
-        top: 83%;
+        top: 27%;
         left: 42%;
         color: black;
         position: absolute;
         z-index: 1;
         width: 15%;
-        height: 8%;
+        height: 3%;
         border: none;
         font-family: 'Manrope', sans-serif;
         cursor: pointer;
@@ -410,13 +409,13 @@
     .hawar-zun {
         font-size: 12px;
         background-color: white;
-        top: 1100px;
+        top: 63%;
         left: 42%;
         color: black;
         position: absolute;
         z-index: 1;
         width: 15%;
-        height: 8%;
+        height: 3%;
         border: none;
         font-family: 'Manrope', sans-serif;
         cursor: pointer;
@@ -435,7 +434,7 @@
         position: absolute;
         z-index: 1;
         width: 15%;
-        height: 8%;
+        height: 3%;
         border: none;
         font-family: 'Manrope', sans-serif;
         cursor: pointer;
@@ -454,7 +453,7 @@
         position: absolute;
         z-index: 1;
         width: 15%;
-        height: 8%;
+        height: 3%;
         border: none;
         font-family: 'Manrope', sans-serif;
         cursor: pointer;
@@ -527,6 +526,7 @@
         margin-top: 20px;
         padding: 20px;
         width: 96% !important;
+        margin-top: 50px;
         background: linear-gradient(white, #DEB887);
     }
 
@@ -1037,7 +1037,7 @@ margin-bottom: 60px;
     .namar-owol {
         font-size: 12px;
         background-color: white;
-        top: 83%;
+        top: 480px;
         left: 42%;
         color: black;
         position: absolute;
@@ -1173,6 +1173,7 @@ margin-bottom: 60px;
         margin-top: 20px;
         padding: 20px;
         width: 96% !important;
+        margin-top: 50px;
         background: linear-gradient(white, #DEB887);
     }
 
@@ -1829,6 +1830,7 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         padding: 20px;
         width: 97% !important;
         background: linear-gradient(white, #DEB887);
+        margin-top: 70px;
     }
 
     .details-footer ul {
