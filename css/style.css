@@ -41,6 +41,10 @@
         display: flex;
     }
 
+    .nav-menu ul li ul {
+        margin-left: 0%;
+        text-align: left !important;
+    }
 
     .nav-menu .li {
         display: inline-block;
@@ -688,7 +692,11 @@ margin-bottom: 60px;
         padding: 0;
         display: flex;
     }
-
+    
+    .nav-menu ul li ul {
+        margin-left: 0%;
+        text-align: left !important;
+    }
 
     .nav-menu .li {
         display: inline-block;
