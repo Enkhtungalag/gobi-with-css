@@ -321,7 +321,7 @@
 
     .grid-container {
         display: grid;
-        grid-template-columns: auto auto auto auto;
+        grid-template-columns: auto auto ;
         margin-top: 20px;
     }
 
@@ -586,7 +586,7 @@
 
     .grid-container-gobi {
         display: grid;
-        grid-template-columns: auto auto auto;
+        grid-template-columns: auto ;
         padding: 20px;
         width: 96%;
         text-align: center;
@@ -594,6 +594,7 @@
 
     .grid-container-gobi img {
         width: 95%;
+padding-bottom: 20px;
     }
 
     .grid-container-gobi div {
@@ -621,8 +622,8 @@
 
     .slider img {
         width: 17%;
-margin-top: 180px;
-margin-bottom: 60px;
+        margin-top: 180px;
+        margin-bottom: 60px;
     }
 
     .grid-container-social {
@@ -653,6 +654,8 @@ margin-bottom: 60px;
     .social-media {
         text-align: center;
     }
+    
+    
 }
 
 @media only screen and (min-device-width: 480px) and (max-device-width: 815px) and (orientation: landscape) {
@@ -972,7 +975,7 @@ margin-bottom: 60px;
 
     .grid-container {
         display: grid;
-        grid-template-columns: auto auto auto auto;
+        grid-template-columns: auto auto ;
         margin-top: 20px;
     }
 
@@ -1237,7 +1240,7 @@ margin-bottom: 60px;
 
     .grid-container-gobi {
         display: grid;
-        grid-template-columns: auto auto auto;
+        grid-template-columns: auto ;
         padding: 20px;
         width: 96%;
         text-align: center;
@@ -1245,6 +1248,7 @@ margin-bottom: 60px;
 
     .grid-container-gobi img {
         width: 95%;
+padding-bottom: 10px;
     }
 
     .grid-container-gobi div {
@@ -1624,16 +1628,20 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
     .emegtei a {
         display: grid;
-        grid-gap: 50px;
+        /* grid-gap: 50px; */
     }
 
-    .emegtei img {
-        width: 25%;
-    }
+    /* .emegtei img {
+        width: 100%;
+    } */
 
     .grid-container {
         display: grid;
         grid-template-columns: auto auto auto auto;
+        width: 100%;
+    }
+    .grid-container div {
+        width: 100%;
     }
 
     .grid-container a {
@@ -1655,7 +1663,7 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         border-radius: 30px;
         margin: 20px;
         padding: 0 !important;
-        width: 95%
+        width: 90%
     }
     .category{
         width: 98%;
@@ -1900,11 +1908,12 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
     }
 
     .grid-container-gobi img {
-        width: 95%;
+        width: 100%;
+        padding-bottom: 20px;
     }
 
-    .grid-container-gobi div {
-        width: 80%;
+    .grid-container-gobi div{
+        width: 90%;
         padding-left: 10%;
     }
 
@@ -1959,4 +1968,6 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
     .social-media {
         text-align: center;
     }
+
+    
 }
