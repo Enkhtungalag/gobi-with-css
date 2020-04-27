@@ -2005,7 +2005,7 @@ Computer iin sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         position: relative;
         color: rgb(5, 5, 3);
         transition: 1s;
-        z-index: 3;
+        z-index: 4;
     }
 
     .social-media ul li a:hover .fa {
